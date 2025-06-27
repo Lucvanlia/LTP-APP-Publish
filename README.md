@@ -3,7 +3,7 @@
   <img src="image/Untitled-1-01.png" alt="LTP App Logo" width="120"/>
 </p>
 
-# 🎬 LTP App – YouTube Downloader  
+# 🎬 LTP App – Downloader Video
 
 © 2025 by IT FOR FREE
 
