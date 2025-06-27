@@ -70,7 +70,8 @@ Ghép video và audio nếu YouTube tách riêng (DASH format)
 
 ### Cai dat | Installation
 Version 1.0
-➡️ Exe File [`LTP APP`](https://github.com/Lucvanlia/LTP-APP-Publish/blob/main/Release/setup_v_1.0.exe)
+➡️ Exe File GitHub [`LTP APP`](https://github.com/Lucvanlia/LTP-APP-Publish/blob/main/Release/setup_v_1.0.exe)
+➡️ Exe File GoogleDrive [`LTP APP`](https://drive.google.com/drive/folders/1ySkrWVHDjeiGVTrkD3asqRkSRX5R5hd4?usp=drive_link)
 
 # 🖍️ Lỗi / Error
 - Không thể mở video dạng VAC1 hoặc video không thể mở 2 cách sau / Can't play video pop up error VAC 2 option:
