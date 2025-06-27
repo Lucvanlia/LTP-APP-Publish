@@ -66,15 +66,15 @@ Ghép video và audio nếu YouTube tách riêng (DASH format)
 | Thông tin lưu/Folder Save - Name File| ![Main UI](image/about_11.png) |
 | Chọn tải nhạc hoặc Phim/Dowload music file or video file (chỉ 1/ only 1 one click )| ![Main UI](image/about_12.png) |
 | Tải xong/Dowload sucess| ![Main UI](image/about_12.png) |
-| Tải xong/Dowload sucess| ![Main UI](image/about_12.png) |
+| Tải xong/Dowload sucess| ![Main UI](image/about_13.png) |
 
 ### Cai dat | Installation
 Version 1.0
-➡️ Exe File GitHub [`LTP APP`](https://github.com/Lucvanlia/LTP-APP-Publish/blob/main/Release/setup_v_1.0.exe)
-➡️ Exe File GoogleDrive [`LTP APP`](https://drive.google.com/drive/folders/1ySkrWVHDjeiGVTrkD3asqRkSRX5R5hd4?usp=drive_link)
+- ➡️ Exe File GitHub [`LTP APP`](https://github.com/Lucvanlia/LTP-APP-Publish/blob/main/Release/setup_v_1.0.exe)
+- ➡️ Exe File GoogleDrive [`LTP APP`](https://drive.google.com/drive/folders/1ySkrWVHDjeiGVTrkD3asqRkSRX5R5hd4?usp=drive_link)
 
 # 🖍️ Lỗi / Error
-- Không thể mở video dạng VAC1 hoặc video không thể mở 2 cách sau / Can't play video pop up error VAC 2 option:
+- Không thể mở video dạng VAC1 hoặc video không thể mở 2 cách sau / Can't play video pop up error VAC 1 have 2 option:
 - Tải phần mềm đọc file/ dowload new app play video VLC media player [`vlc`](https://www.videolan.org/vlc/) 
 
 
