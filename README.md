@@ -48,7 +48,6 @@ Ghép video và audio nếu YouTube tách riêng (DASH format)
 - .NET Framework 4.7+
 | Bước/Step | Ảnh minh họa/ Description Image |
 |----------|---------------|
-| Ấn để tải / Click here to Get Download || [![Main UI](img_about/about_1.png)])(#cai-dat--installation) |
 | Click Here GetDowload | ![Main UI](image/about_1.png) |
 | Path Save/Đường dẫn lưu | ![Main UI](image/about_2.png) |
 | Tạo Lối tắt/ShortCut | ![Main UI](image/about_4.png) |
