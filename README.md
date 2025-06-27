@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image/LTP-JPEG.jpg" alt="LTP App Logo" width="120"/>
+  <img src="image/Untitled-1-01.png" alt="LTP App Logo" width="120"/>
 </p>
 
 # 🎬 LTP App – YouTube Downloader  
@@ -70,7 +70,7 @@ Ghép video và audio nếu YouTube tách riêng (DASH format)
 
 ### Cai dat | Installation
 Version 1.0
-➡️ Exe File [`LTP APP`](Release/setup_v_1.0.exe) 
+➡️ Exe File [`LTP APP`](https://github.com/Lucvanlia/LTP-APP-Publish/releases/setup_v_1.0.exe)
 
 # 🖍️ Lỗi / Error
 - Không thể mở video dạng VAC1 hoặc video không thể mở 2 cách sau / Can't play video pop up error VAC 2 option:
